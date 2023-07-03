@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**feicien/feicien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/feicien">
+    <img src="https://github-readme-stats.vercel.app/api?username=feicien&show_icons=true&theme=transparent&title_color=65b587&icon_color=7dc09a&border_color=7dc09a" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://juejin.cn/user/1090369410314942/posts">
+    <img src="https://img.shields.io/badge/📖%20掘金地址-brightness.svg" />
+  </a>
+  </a>
+  <a href="https://github.com/feicien">
+    <img src="https://komarev.com/ghpvc/?username=feicien&color=brightgreen&label=👁%20Views" />
+  </a>  
+</p>
+
