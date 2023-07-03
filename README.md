@@ -1,7 +1,7 @@
 ### 个人简介
 
 - Android & Flutter 开发者
-- 失业中。。。[个人简历](https://visiky.github.io/resume/?user=feicien)
+- 失业中。。。[个人简历施工中🚧](https://visiky.github.io/resume/?template=template2&user=feicien)
 
 
 ### 最新文章 📝 [掘金](https://juejin.cn/user/1090369410314942/posts)
