@@ -1,4 +1,6 @@
 ### 个人简介
+![https://github.com/feicien](https://komarev.com/ghpvc/?username=feicien&color=brightgreen)
+
 
 - Android & Flutter 开发者
 - 失业中。。。[个人简历施工中🚧](https://visiky.github.io/resume/?template=template2&user=feicien)
@@ -12,6 +14,13 @@
 - [Flutter 使用 json_serializable 解析 JSON 支持泛型](https://juejin.cn/post/7127206962915180574) (2022-08-02)
 
 
-![feicien's github stats](https://github-readme-stats.vercel.app/api?username=feicien&show_icons=true&theme=dracula)
+<a href="https://github.com/feicien">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=feicien&show_icons=true&theme=light" alt="feicien's GitHub Stats"/>
+</a>
 
-- ![https://github.com/feicien](https://komarev.com/ghpvc/?username=feicien&color=brightgreen&label=👁%20Views)
+
+<!-- 
+<a href="https://github.com/feicien">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feicien&theme=light&hide_langs_below=1" alt="Top Language"/>
+</a>
+-->
