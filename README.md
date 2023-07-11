@@ -3,7 +3,7 @@
 
 
 - Android & Flutter 开发者
-- 求助中。。。[个人简历](https://visiky.github.io/resume/?template=template2&user=feicien)
+- 求职中。。。[个人简历](https://visiky.github.io/resume/?template=template2&user=feicien)
 
 
 ### 最新文章 📝 [掘金](https://juejin.cn/user/1090369410314942/posts)
